@@ -41,7 +41,7 @@ __Esta asignatura no es eximible y puede estar sometida a Examen Nacional.__
    - [Multiplataforma](https://github.com/dtravisany/ACI777/tree/main/00_instalar_anaconda).
 
 4. Instalación de Flask:
-   - [Flask](code/4a.md).
+   - [Flask](code/4.md).
     
 # Aplicando el contenido teórico visto en clases
 

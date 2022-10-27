@@ -5,7 +5,7 @@
 ### Descripción de la asignatura:
 
 #### Meta formativa:
-Comprender conceptos de bases de datos, específicamente de “_bases de datos relacionales_”; conocimiento que será trabajado para el diseño e implementación de estas bases, junto con la utilización de software de administración de bases de datos.  
+Comprender conceptos de bases de datos, específicamente de “[_bases de datos relacionales_](https://www.oracle.com/cl/database/what-is-a-relational-database/)”; conocimiento que será trabajado para el diseño e implementación de estas bases, junto con la utilización de software de administración de bases de datos.  
 #### Prerrequisitos:
 - ACI221 o ACI600 que entregan fundamentos de programación, algoritmos y estructuras de datos requeridos en la asignatura. 
  

@@ -33,12 +33,16 @@ __Esta asignatura no es eximible y puede estar sometida a Examen Nacional.__
 
 1. Instalación de MariaDB:
     - [Windows](code/1a.md).
- [comment]:   - [Linux](code/1b.md).
- [comment]:   - [OSX](code/1c.md).
+
+ [//]: #   - [Linux](code/1b.md).
+
+ [//]: #   - [OSX](code/1c.md).
+ 
 2. Instalación de MySQL WorkBench:
     - [Windows](code/2a.md).
-[comment]:    - [Linux](code/2b.md).
-[comment]:    - [OSX](code/2c.md).
+    
+[//]: #    - [Linux](code/2b.md).
+[//]: #    - [OSX](code/2c.md).
 3. [Ejemplos](code/3.md).
 4. [Instalación de Anaconda](code/4.md).
 5. [Flask](code/5.ipynb).

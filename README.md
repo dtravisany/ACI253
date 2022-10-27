@@ -32,12 +32,12 @@ __Esta asignatura no es eximible y puede estar sometida a Examen Nacional.__
 ## Contenido del github y práctico:
 
 1. Instalación de MariaDB:
-    -[Windows](code/1a.md).
-    -[Linux](code/1b.md).
-    -[OSX](code/1c.md)
+    - [Windows](code/1a.md).
+    - [Linux](code/1b.md).
+    - [OSX](code/1c.md).
 3. Instalación de MySQL WorkBench:
-    -[Windows](code/2a.md).
-    -[Linux](code/2b.md).
-    -[OSX](code/2c.md).
+    - [Windows](code/2a.md).
+    - [Linux](code/2b.md).
+    - [OSX](code/2c.md).
 5. [Ejemplos](code/3.md).
 6. [Flask](code/4.ipynb).

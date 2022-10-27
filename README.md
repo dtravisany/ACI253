@@ -35,9 +35,10 @@ __Esta asignatura no es eximible y puede estar sometida a Examen Nacional.__
     - [Windows](code/1a.md).
     - [Linux](code/1b.md).
     - [OSX](code/1c.md).
-3. Instalación de MySQL WorkBench:
+2. Instalación de MySQL WorkBench:
     - [Windows](code/2a.md).
     - [Linux](code/2b.md).
     - [OSX](code/2c.md).
-5. [Ejemplos](code/3.md).
-6. [Flask](code/4.ipynb).
+3. [Ejemplos](code/3.md).
+4. [Instalación de Anaconda](code/4.md).
+5. [Flask](code/5.ipynb).

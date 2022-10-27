@@ -35,7 +35,7 @@ __Esta asignatura no es eximible y puede estar sometida a Examen Nacional.__
     - [Windows](code/1a.md).
 
 2. Instalación de MySQL WorkBench:
-    - [Windows](code/2a.md).
+    - [Windows](code/2.md).
 
 3. Instalación de Anaconda:
    - [Multiplataforma](https://github.com/dtravisany/ACI777/tree/main/00_instalar_anaconda).

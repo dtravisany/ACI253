@@ -29,17 +29,36 @@ construidas mediante una diversidad de ítemes como desarrollo, selección múlt
 __Esta asignatura no es eximible y puede estar sometida a Examen Nacional.__
 
 
-## Contenido del github y práctico:
+## Puesta a punto del software:
 
 1. Instalación de MariaDB:
     - [Windows](code/1a.md).
 
- 
 2. Instalación de MySQL WorkBench:
     - [Windows](code/2a.md).
+
+3. Instalación de Anaconda:
+   - [Multiplataforma](code/3a.md).
+
+4. Instalación de Flask
+   - [Flask](code/4a.md).
     
-3. [Ejemplos](code/3.md).  
+# Aplicando el contenido teórico visto en clases
 
-4. [Instalación de Anaconda](code/4.md).  
+### Ejercicios:
 
-5. [Flask](code/5.ipynb).  
+5. Data Definition Language (DDL):
+Como vimos en las slides de la semana 8, son comandos para la definición de esquemas de relación, borrado de relaciones y modificaciones de los esquemas de relación ( CREATE / ALTER / DROP ), además incluye comandos para especificar los derechos de acceso a las relaciones y a las vistas ( GRANT / REVOKE ).
+    - [Creación de Usuarios y Asignación de Permisos](code/5a.md).
+    - [Creación de un esquema de Base de Datos](code/5b.md)
+6. Data Manipulation Language (DML):
+Permite manipular los contenidos de las relaciones ( INSERT / UPDATE / DELETE / TRUNCATE ),  además especificar las restricciones de integridad, definición de vistas y el control de transacciones (COMMIT / ROLLBACK).
+    - [Insertando datos (Semanas 8 y 11)](code/6a.md).
+    - [Modificando datos (Semanas 8 y 11) ](code/6b.md)
+
+7. Structured Query Language (SQL): Lenguaje de consultas propiamente tal. Lenguaje de consultas basado tanto en álgebra relacional como en cálculo relacional de tuplas.  (SELECT)
+    - [Seleccionando Datos y clausulas WHERE Y ORDER BY (Semanas 9 y 10)](code/7a.md).
+    - [Funciones en MariaDB (Semana 12) ](code/7b.md)
+    - [Uniones de Tablas (Semana 13)](code/7c.md).
+
+8. [Flask](code/8.ipynb).  

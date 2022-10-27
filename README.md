@@ -40,7 +40,7 @@ __Esta asignatura no es eximible y puede estar sometida a Examen Nacional.__
 3. Instalación de Anaconda:
    - [Multiplataforma](code/3a.md).
 
-4. Instalación de Flask
+4. Instalación de Flask:
    - [Flask](code/4a.md).
     
 # Aplicando el contenido teórico visto en clases
@@ -50,15 +50,15 @@ __Esta asignatura no es eximible y puede estar sometida a Examen Nacional.__
 5. Data Definition Language (DDL):
 Como vimos en las slides de la semana 8, son comandos para la definición de esquemas de relación, borrado de relaciones y modificaciones de los esquemas de relación ( CREATE / ALTER / DROP ), además incluye comandos para especificar los derechos de acceso a las relaciones y a las vistas ( GRANT / REVOKE ).
     - [Creación de Usuarios y Asignación de Permisos](code/5a.md).
-    - [Creación de un esquema de Base de Datos](code/5b.md)
+    - [Creación de un esquema de Base de Datos](code/5b.md).
 6. Data Manipulation Language (DML):
 Permite manipular los contenidos de las relaciones ( INSERT / UPDATE / DELETE / TRUNCATE ),  además especificar las restricciones de integridad, definición de vistas y el control de transacciones (COMMIT / ROLLBACK).
     - [Insertando datos (Semanas 8 y 11)](code/6a.md).
-    - [Modificando datos (Semanas 8 y 11) ](code/6b.md)
+    - [Modificando datos (Semanas 8 y 11) ](code/6b.md).
 
 7. Structured Query Language (SQL): Lenguaje de consultas propiamente tal. Lenguaje de consultas basado tanto en álgebra relacional como en cálculo relacional de tuplas.  (SELECT)
     - [Seleccionando Datos y clausulas WHERE Y ORDER BY (Semanas 9 y 10)](code/7a.md).
-    - [Funciones en MariaDB (Semana 12) ](code/7b.md)
+    - [Funciones en MariaDB (Semana 12) ](code/7b.md).
     - [Uniones de Tablas (Semana 13)](code/7c.md).
 
 8. [Flask](code/8.ipynb).  

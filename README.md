@@ -14,7 +14,8 @@ Comprender conceptos de bases de datos, específicamente “bases de datos relac
 - ACI550
 - ACI593
 - ACI720
-- CI800
+- ACI800  
+  
 Porque entrega los fundamentos para comprender, implementar y utilizar bases de datos relacionales para gestionar datos en contextos diversos.
 
 #### Metodología:

@@ -1,8 +1,6 @@
-# ACI253
+# ACI253 - Base de datos
 
-## Base de datos
-
-### Descripción de la asignatura:
+## Descripción de la asignatura:
 
 #### Meta formativa:
 Comprender conceptos de bases de datos, específicamente de “[_bases de datos relacionales_](https://www.oracle.com/cl/database/what-is-a-relational-database/)”; conocimiento que será trabajado para el diseño e implementación de estas bases, junto con la utilización de software de administración de bases de datos.  
@@ -29,8 +27,6 @@ La asignatura evalúa ejercicios resueltos por los alumnos a través de pautas d
 construidas mediante una diversidad de ítemes como desarrollo, selección múltiple, verdadero/falso, entre otros.
 
 __Esta asignatura no es eximible y puede estar sometida a Examen Nacional.__
-
-
 
 
 ## Contenido del github y práctico:

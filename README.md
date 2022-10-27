@@ -35,7 +35,7 @@ __Esta asignatura no es eximible y puede estar sometida a Examen Nacional.__
 
 ## Contenido del github y práctico:
 
-1. [Instalación de MariaDB en Windows](code/1.ipynb).
-2. [Instalación de MySQL WorkBench](code/2.ipynb).
-3. [Ejemplos](code/3.ipnyb).
-
+1. [Instalación de MariaDB en Windows](code/1.md).
+2. [Instalación de MySQL WorkBench](code/2.md).
+3. [Ejemplos](code/3.md).
+4. [Flask](code/4.ipynb)
